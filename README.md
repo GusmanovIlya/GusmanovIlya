@@ -6,6 +6,8 @@
 
 Swift & iOS · .NET & Web · Python & Automation
 
+**Open to development opportunities — [let’s talk on Telegram](https://t.me/semnatory).**
+
 <img src="https://media1.tenor.com/m/0HuP8U6SDsEAAAAC/griffith.gif" width="480" alt="Griffith — Berserk" />
 
 *Ambition sets the direction. Discipline builds the path.*
@@ -58,23 +60,37 @@ The goal is to reduce repetitive integration work for creators and developers. T
 
 **Built with:** Python · Platform APIs · OAuth · FFmpeg · Adapter-based design
 
-### My toolkit
+### Technical skills
 
-**Languages**  
-Swift · C# · Python · JavaScript · SQL · HTML · CSS
+A strong foundation in **algorithms, data structures, and information security**, complemented by hands-on projects across mobile development, web applications, and automation.
 
-**Applications & architecture**  
-SwiftUI · SwiftData · ASP.NET Core MVC · React · MVVM · Repository Pattern · Dependency Injection
+| Area | Skills & technologies |
+| :--- | :--- |
+| **Computer science** | Algorithms · Data structures · Problem-solving · Time and space complexity |
+| **iOS development** | Swift · SwiftUI · SwiftData · Observation · async/await · URLSession · UIKit integration |
+| **Backend & APIs** | C# · ASP.NET Core MVC · Python · REST APIs · JSON · OAuth · SignalR |
+| **Frontend & layout** | HTML · CSS · JavaScript · React · Razor · Responsive layouts |
+| **Databases** | SQL · PostgreSQL · Relational data modeling · Entity Framework Core · Migrations · Local persistence |
+| **Data & statistics** | Data analysis · Statistical reasoning · Interpreting data and communicating findings |
+| **Information security** | Security fundamentals · Authentication & authorization · Role-based access · Secure handling of credentials |
+| **Architecture & quality** | MVVM · Repository Pattern · Dependency Injection · Separation of concerns · Unit testing with XCTest |
+| **Development workflow** | Git · GitHub · Docker · Linux / Debian · API integration and debugging |
 
-**Data & integrations**  
-PostgreSQL · Entity Framework Core · REST APIs · URLSession · OAuth · SignalR
+### Tools I work with
 
-**Workspace & tools**  
-Xcode · PyCharm · Visual Studio Code · DBeaver · Charles Proxy · Git · GitHub · Debian
+**Xcode** · **PyCharm** · **Visual Studio Code** · **DBeaver** · **Charles Proxy** · **GitHub** · **Docker** · **Debian**
+
+### English
+
+**B2 — Upper-intermediate.** Comfortable reading technical documentation and discussing technical topics in English.
 
 ### Let's connect
 
-Have a project idea, a technical challenge, or something worth building together? Let's talk.
+I'm open to software development opportunities and collaboration, with a particular interest in **iOS development**, **.NET web applications**, and **Python automation**.
+
+Looking for a developer with a broad technical foundation and a drive to turn ideas into working software? I'd be glad to discuss your team, your product, and how I could contribute.
+
+**The best way to reach me is Telegram: [@semnatory](https://t.me/semnatory).**
 
 - **GitHub:** [@GusmanovIlya](https://github.com/GusmanovIlya)
 - **Telegram:** [@semnatory](https://t.me/semnatory)

@@ -4,65 +4,77 @@
 
 **VISION INTO CODE. IDEAS INTO REALITY.**
 
-Swift & iOS · .NET & Web · Python & Automation
+iOS Developer · .NET & Web · Python Automation
 
-**Open to development opportunities — [let’s talk on Telegram](https://t.me/semnatory).**
+<a href="https://t.me/semnatory"><img src="https://img.shields.io/badge/Telegram-LET'S_TALK-8B5CF6?style=for-the-badge&logo=telegram&logoColor=white" alt="Contact Ilya on Telegram" /></a>
+<a href="https://github.com/GusmanovIlya?tab=repositories"><img src="https://img.shields.io/badge/GitHub-EXPLORE_PROJECTS-252238?style=for-the-badge&logo=github&logoColor=white" alt="Explore my projects" /></a>
 
-<img src="https://media1.tenor.com/m/0HuP8U6SDsEAAAAC/griffith.gif" width="480" alt="Griffith — Berserk" />
+**Open to development opportunities · English B2**
+
+<a href="https://tenor.com/ru/view/griffith-gif-15022759248592506561"><img src="https://media1.tenor.com/m/0HuP8U6SDsEAAAAC/griffith.gif" width="400" alt="Griffith — Berserk; GIF on Tenor" /></a>
 
 *Ambition sets the direction. Discipline builds the path.*
-
-[Projects](https://github.com/GusmanovIlya?tab=repositories) · [GIF credit](https://tenor.com/ru/view/griffith-gif-15022759248592506561)
 
 </div>
 
 ---
 
-### Behind the code
+### A builder with a broader perspective
 
-I'm Ilya — a developer driven by the desire to turn ambitious ideas into software people can use.
+I build **native iOS experiences**, **web applications**, and **automation tools** — connecting thoughtful interfaces with the data and services behind them.
 
-I build native iOS experiences with **SwiftUI**, explore the full web stack with **ASP.NET Core and React**, and automate repetitive work with **Python**. My interests span the entire journey: the interface you touch, the data beneath it, and the integrations that bring it to life.
+My foundation in **algorithms, data structures, information security, and statistics** shapes how I approach problems. I care about clear architecture, useful software, and understanding the decisions behind the code.
 
-I care about clear architecture, thoughtful interactions, and understanding how things work beneath the surface. Every project is another step toward building with greater precision and purpose.
+### Stack & workspace
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=swift,cs,dotnet,python,js,react,html,css&theme=dark&perline=8" alt="Swift, C#, .NET, Python, JavaScript, React, HTML, CSS" />
+<br />
+<img src="https://skillicons.dev/icons?i=postgres,docker,git,github,debian,pycharm,vscode&theme=dark&perline=7" alt="PostgreSQL, Docker, Git, GitHub, Debian, PyCharm, VS Code" />
+</p>
+
+<p align="center"><strong>Also in my workflow:</strong> Xcode · DBeaver · Charles Proxy · REST APIs · XCTest</p>
 
 ### Selected work
 
-#### [GitStats — Discover the people behind the code](https://github.com/GusmanovIlya/GitStats)
+#### [01 / GitStats](https://github.com/GusmanovIlya/GitStats) — Discover the people behind the code
 
-Exploring GitHub connections on a phone can mean repeatedly moving between profiles and follower lists. GitStats brings that journey into a focused native iOS interface: look up a username, browse followers, inspect a profile, and continue exploring that person's network.
+A focused native iOS app for exploring GitHub profiles and follower networks. Browse connections without losing context, with pagination, pull-to-refresh, and clear loading and error states.
 
-It makes public developer information easier to navigate, with paginated lists, pull-to-refresh, and clear feedback when data is loading, unavailable, or missing.
+**SwiftUI · MVVM · async/await · URLSession · XCTest**  
+[Explore the code →](https://github.com/GusmanovIlya/GitStats)
 
-**Built with:** SwiftUI · MVVM · URLSession · async/await · WKWebView · XCTest
+#### [02 / FamMes](https://github.com/GusmanovIlya/projectFamMes) — Give conversations a memory
 
-#### [FamMes — Give conversations a memory](https://github.com/GusmanovIlya/projectFamMes)
+Important plans and ideas get buried in chat history. This student iOS project brings chat screens and personal/shared-note workflows together, with **local SwiftData persistence**. Server-backed messaging and cross-device collaboration remain future work.
 
-Plans, ideas, and important agreements are easy to lose in a stream of messages. FamMes is a student iOS project exploring how conversations and structured notes can live side by side, so useful information has a place beyond the chat history.
+<p align="center">
+<img src="https://raw.githubusercontent.com/GusmanovIlya/projectFamMes/main/projectFamMes/projectFamMes/photo_2025-09-20%2003.05.04.jpeg.xcassets/chats.imageset/chats.png" width="30%" alt="FamMes — chat list" />
+<img src="https://raw.githubusercontent.com/GusmanovIlya/projectFamMes/main/projectFamMes/projectFamMes/photo_2025-09-20%2003.05.04.jpeg.xcassets/notes.imageset/notes.png" width="30%" alt="FamMes — notes" />
+<img src="https://raw.githubusercontent.com/GusmanovIlya/projectFamMes/main/projectFamMes/projectFamMes/photo_2025-09-20%2003.05.04.jpeg.xcassets/shared-note-edit.imageset/shared-note-edit.png" width="30%" alt="FamMes — shared note editing" />
+</p>
 
-The current implementation combines chat screens, personal and shared-note workflows, participant selection, and local persistence with SwiftData. It demonstrates a way to keep discussions and the information they produce together; server-backed messaging and cross-device collaboration remain future development work.
+**SwiftUI · SwiftData · Observation · MVVM · Dependency Injection**  
+[Explore the code →](https://github.com/GusmanovIlya/projectFamMes)
 
-**Built with:** SwiftUI · SwiftData · Observation · MVVM · Repository Pattern · Dependency Injection
+#### [03 / Zetflix](https://github.com/GusmanovIlya/Zetflix) — From discovery to control
 
-#### [Zetflix — From content discovery to content control](https://github.com/GusmanovIlya/Zetflix)
+A demonstration cinema platform that helps viewers find films and series through search, filters, and reviews. A separate React dashboard gives administrators one place to manage content, users, and moderation.
 
-A growing film and series catalog needs more than a collection of pages: viewers need ways to find content, and administrators need tools to maintain it. Zetflix explores both sides of that problem in a demonstration web application.
+**C# · ASP.NET Core MVC · PostgreSQL · EF Core · React · SignalR**  
+[Explore the code →](https://github.com/GusmanovIlya/Zetflix)
 
-Search, filters, pagination, content pages, and reviews help viewers explore the catalog. A separate React dashboard gives administrators a central workspace for managing titles, episodes, genres, users, and moderation, supported by role-based access and activity auditing.
+#### [04 / AutoPoster](https://github.com/GusmanovIlya/AutoPoster) — Less repetition. More creation.
 
-**Built with:** C# · ASP.NET Core MVC · Razor · PostgreSQL · Entity Framework Core · React · SignalR
+A publishing toolkit in development, designed to reduce repetitive uploads and platform-specific integration work. Includes social platform adapters, OAuth helpers, and FFmpeg video preparation. Credentials and platform permissions are required; scheduling and unified bulk publishing are not yet implemented.
 
-#### [AutoPoster — Less repetition. More creation.](https://github.com/GusmanovIlya/AutoPoster)
+**Python · Platform APIs · OAuth · FFmpeg · Adapter-based design**  
+[Explore the code →](https://github.com/GusmanovIlya/AutoPoster)
 
-Publishing content across social platforms involves repeated uploads, different API requirements, and platform-specific media preparation. AutoPoster is a Python toolkit in development that brings those differences behind a common publication model and separate platform adapters.
+---
 
-The goal is to reduce repetitive integration work for creators and developers. The repository includes adapters for Telegram, VK, Instagram, YouTube, and TikTok, OAuth helpers, and FFmpeg-based preparation for vertical videos. Each integration requires its own credentials and permissions; scheduling and a unified bulk-publishing command are not implemented yet.
-
-**Built with:** Python · Platform APIs · OAuth · FFmpeg · Adapter-based design
-
-### Technical skills
-
-A strong foundation in **algorithms, data structures, and information security**, complemented by hands-on projects across mobile development, web applications, and automation.
+<details>
+<summary><strong>Technical skills — expand the full picture</strong></summary>
 
 | Area | Skills & technologies |
 | :--- | :--- |
@@ -76,30 +88,25 @@ A strong foundation in **algorithms, data structures, and information security**
 | **Architecture & quality** | MVVM · Repository Pattern · Dependency Injection · Separation of concerns · Unit testing with XCTest |
 | **Development workflow** | Git · GitHub · Docker · Linux / Debian · API integration and debugging |
 
-### Tools I work with
+**Tools:** Xcode · PyCharm · Visual Studio Code · DBeaver · Charles Proxy · GitHub · Docker · Debian
 
-**Xcode** · **PyCharm** · **Visual Studio Code** · **DBeaver** · **Charles Proxy** · **GitHub** · **Docker** · **Debian**
+**English:** B2 — Upper-intermediate. Comfortable reading technical documentation and discussing technical topics in English.
 
-### English
+</details>
 
-**B2 — Upper-intermediate.** Comfortable reading technical documentation and discussing technical topics in English.
+### Let's build something worth using
 
-### Let's connect
+I'm open to **iOS development**, **.NET web development**, and **Python automation** opportunities. If your team values curiosity, technical foundations, and a drive to build, I'd be glad to talk.
 
-I'm open to software development opportunities and collaboration, with a particular interest in **iOS development**, **.NET web applications**, and **Python automation**.
-
-Looking for a developer with a broad technical foundation and a drive to turn ideas into working software? I'd be glad to discuss your team, your product, and how I could contribute.
-
-**The best way to reach me is Telegram: [@semnatory](https://t.me/semnatory).**
-
-- **GitHub:** [@GusmanovIlya](https://github.com/GusmanovIlya)
-- **Telegram:** [@semnatory](https://t.me/semnatory)
-
----
+**[Message me on Telegram — @semnatory →](https://t.me/semnatory)**
 
 <div align="center">
 
+---
+
 **THE VISION IS ONLY THE BEGINNING.**  
 *Build. Understand. Refine. Repeat.*
+
+<sub>Technology icons by <a href="https://skillicons.dev">Skill Icons</a> · GIF via <a href="https://tenor.com/ru/view/griffith-gif-15022759248592506561">Tenor</a></sub>
 
 </div>
